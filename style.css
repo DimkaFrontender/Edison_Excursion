@@ -49,8 +49,8 @@
 .page-section-with-bg::before {
     content: "";
     position: absolute;
-    top: 0;
-    right: 0;
+    top: ;
+    right: ;
     bottom: 0;
 }
 
